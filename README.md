@@ -1,7 +1,7 @@
 ## Minesweeper-Game-Using-Java
 res File contains audio and png files that are used in this game.
 'theme.wav' (background music) file is missing here(res) due to it's size. The game should still run without it.
-N.B. These audio files and some of the png files were taken(some were modified a little later) from different online sources.
+N.B. These audio files and some of the png files were taken(some were modified later) from different online sources.
 
 ## How To Run
 1. Load the project on any java IDE.
